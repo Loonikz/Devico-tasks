@@ -1,0 +1,12 @@
+.block {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    font-size: 24px;
+    color: white;
+    cursor: pointer;
+}
