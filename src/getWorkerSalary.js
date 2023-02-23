@@ -1,3 +1,11 @@
+// Implement a class Worker (Worker), which will have the following
+// properties: name, surname, rate (rate per day of work), days (number of
+// days worked). The class must also have a getSalary() method that will
+// display the employee's salary. The salary is the multiplication of the rate by
+// the number of days worked. All its properties are private, and make getter
+// methods to read them. For the rate property and for the days property, also
+// make setter methods.
+
 class Worker {
 
     constructor(name, surname, rate, days) {

@@ -1,3 +1,5 @@
+//Write a function that replaces all ones with zeros and vice versa for the object
+
 const d = {
     left: {
         left: {

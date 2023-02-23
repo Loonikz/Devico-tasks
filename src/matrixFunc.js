@@ -1,3 +1,7 @@
+//Make a function that takes a number n, and returns a two-dimensional
+// array with length n*n, with 2 on the diagonal and 1 on the top and bottom of
+// the resulting segment
+
 function bar(n) {
     const arr = new Array(n).fill().map(() => new Array(n).fill(0));
 

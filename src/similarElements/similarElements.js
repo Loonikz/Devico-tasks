@@ -1,3 +1,7 @@
+//.Create a similar element, when you click on any of the blocks it should
+// change its color. Also each element should display the amount of times it
+// has been clicked on it.
+
 const gridSize = 6;
 const grid = document.getElementById("grid");
 
